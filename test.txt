@@ -1,2 +1,0 @@
-this is a git-demo called test under the master
-this is under the branch of the test
